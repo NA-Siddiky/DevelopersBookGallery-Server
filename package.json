@@ -1,7 +1,6 @@
 {
   "name": "developers-book-gallery-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -17,5 +16,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Porgramming-Hero-web-course/full-stack-server-NA-Siddiky.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Porgramming-Hero-web-course/full-stack-server-NA-Siddiky/issues"
+  },
+  "homepage": "https://github.com/Porgramming-Hero-web-course/full-stack-server-NA-Siddiky#readme",
+  "description": ""
 }
